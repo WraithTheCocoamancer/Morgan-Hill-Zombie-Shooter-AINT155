@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Player Damage
+  - Enemy Health
   - 
   - 
   - 
@@ -58,4 +58,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2562826881
+    locked: 0
+  - name: New Layer
+    uniqueID: 3677587589
     locked: 0
