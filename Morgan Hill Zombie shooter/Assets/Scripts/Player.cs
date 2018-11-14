@@ -21,12 +21,13 @@ public class Player : MonoBehaviour
             gunAnim.SetBool("isFiring", false);
         }
     }
-    private void SendHealthData(int health)
+    public void SendHealthData(int health)
     {
         if (OnUpdateHealth != null)
         {
             OnUpdateHealth(health);
         }
-    }
+    }
+
 }
 
