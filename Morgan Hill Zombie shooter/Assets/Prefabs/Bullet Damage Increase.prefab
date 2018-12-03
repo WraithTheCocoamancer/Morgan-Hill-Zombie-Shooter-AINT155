@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 50600085645353110}
   - component: {fileID: 114632194655692980}
   m_Layer: 8
-  m_Name: bullet
+  m_Name: Bullet Damage Increase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
