@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 1d889f54c76d81c4fa2fe9a3c087d607
+guid: 3b526f89a7cd0674aa4c8f073e50c1d4
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Hero_fire_anim_0
-    21300002: Hero_fire_anim_1
+    21300000: Knife Spite_0
+    21300002: Knife Spite_1
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -117,41 +117,41 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hero_fire_anim_0
+      name: Knife Spite_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 256
         height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.58173686, y: 0.50510854}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16485d0182d68fe4ba4f6282fa27a941
+      spriteID: b84f2f522f68fc64a9d2d9ce4d1ca731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_fire_anim_1
+      name: Knife Spite_1
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 256
         height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5842911, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 606e4618b00a40f428e9d9d0257a3959
+      spriteID: 211d17fb4926abf489c41df781ae2c71
       vertices: []
       indices: 
       edges: []
@@ -159,7 +159,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 30ff7729bbda4784595b7526d80c307a
+    spriteID: 30fd0cc359ffa6d458f4afe29acf987d
     vertices: []
     indices: 
     edges: []
