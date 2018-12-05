@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4467049439610176}
   - component: {fileID: 212578227632374364}
   - component: {fileID: 95594557973257348}
+  - component: {fileID: 114718624548913260}
   m_Layer: 0
   m_Name: Knife Attack_0
   m_TagString: Untagged
@@ -142,7 +143,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 5
-  resetTime: 0.25
+  resetTime: 1
+--- !u!114 &114718624548913260
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1492650744130998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e13a24dc2bf65947853efe750870dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  col: {fileID: 60420233568484000}
+  fireTime: 0.5
 --- !u!212 &212578227632374364
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -82,6 +82,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 1740967218937666, guid: 38f0b05dda78c824a8bd8e78364d7c75,
     type: 2}
-  bulletSpawn:
+  BulletSpawn:
   - {fileID: 4286598003941874}
   fireTime: 0.2
