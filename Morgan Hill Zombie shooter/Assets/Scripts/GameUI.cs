@@ -26,4 +26,4 @@ public class GameUI : MonoBehaviour
         playerScore += theScore;
         scoreText.text = "SCORE: " + playerScore.ToString();
     }
-}
+}

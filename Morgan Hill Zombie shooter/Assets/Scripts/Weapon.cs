@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class Weapon : MonoBehaviour
+public class Weapon : MonoBehaviour 
 {
     public GameObject bulletPrefab;
-    public Transform bulletSpawn;
+    public Transform[] BulletSpawn;
     public float fireTime = 0.5f;
     private bool isFiring = false;
     private void SetFiring()
@@ -14,7 +14,10 @@ public class Weapon : MonoBehaviour
     private void Fire()
     {
         isFiring = true;
-        Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation);
+        for (int i = 0; i < BulletSpawn.Length; i++)
+        {
+            Instantiate(bulletPrefab, BulletSpawn[i].position, BulletSpawn[i].rotation);
+        }
         if (GetComponent<AudioSource>() != null)
         {
             GetComponent<AudioSource>().Play();
