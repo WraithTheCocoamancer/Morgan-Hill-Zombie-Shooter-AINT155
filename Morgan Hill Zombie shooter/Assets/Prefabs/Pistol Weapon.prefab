@@ -80,6 +80,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8c49deebf208364aa09ad064a56b351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Gunanim: {fileID: 9100000, guid: e8c67f68ddde0024c8fa7c794aef37c4, type: 2}
   bulletPrefab: {fileID: 1740967218937666, guid: 38f0b05dda78c824a8bd8e78364d7c75,
     type: 2}
   BulletSpawn:
