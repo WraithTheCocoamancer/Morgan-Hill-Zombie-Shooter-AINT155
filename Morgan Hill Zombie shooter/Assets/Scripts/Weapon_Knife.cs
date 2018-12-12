@@ -11,9 +11,12 @@ public class Weapon_Knife : MonoBehaviour
     public float fireTime = 0.5f;
     private bool isFiring = false;
 
+    public RuntimeAnimatorController anim;
+
     void Start()
     {
         col.enabled = false;
+        transform.parent.parent.GetComponent<Animator>().runtimeAnimatorController = anim;
     }
 
     private void SetFiring()

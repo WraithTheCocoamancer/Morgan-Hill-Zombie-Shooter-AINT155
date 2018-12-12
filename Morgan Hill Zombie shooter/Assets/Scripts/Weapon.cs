@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 public class Weapon : MonoBehaviour 
 {
+    public RuntimeAnimatorController Gunanim; 
     public GameObject bulletPrefab;
     public Transform[] BulletSpawn;
     public float fireTime = 0.5f;
@@ -10,6 +11,7 @@ public class Weapon : MonoBehaviour
     private void SetFiring()
     {
         isFiring = false;
+        transform.parent.parent.GetComponent<Animator>().runtimeAnimatorController = Gunanim;
     }
     private void Fire()
     {
