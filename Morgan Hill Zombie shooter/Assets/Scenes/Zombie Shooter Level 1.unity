@@ -833,61 +833,40 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.39
+      value: 0.37
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -7.49
+      value: -7.09
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalPosition.z
       value: 0.22413792
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+    - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_RootOrder
       value: 13
       objectReference: {fileID: 0}
-    - target: {fileID: 1600743269704726, guid: f27f81461515a794996e8b4a2751e074, type: 2}
-      propertyPath: m_Name
-      value: Knife Pickup
-      objectReference: {fileID: 0}
-    - target: {fileID: 212060545811699850, guid: f27f81461515a794996e8b4a2751e074,
-        type: 2}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: fc697bf3a064eb441a8929ad4ba0f987,
-        type: 3}
-    - target: {fileID: 212060545811699850, guid: f27f81461515a794996e8b4a2751e074,
-        type: 2}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 114557835063378934, guid: f27f81461515a794996e8b4a2751e074,
-        type: 2}
-      propertyPath: weaponPrefab
-      value: 
-      objectReference: {fileID: 1492650744130998, guid: c55add93f0956eb4aa8394c6c60d60d3,
-        type: 2}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: f27f81461515a794996e8b4a2751e074, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: 56114d2225c432347854754b52314d81, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &814034482
 Prefab:
@@ -1600,16 +1579,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 14
       objectReference: {fileID: 0}
-    - target: {fileID: 1600743269704726, guid: f27f81461515a794996e8b4a2751e074, type: 2}
-      propertyPath: m_Name
-      value: Pistol Pickup (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 212060545811699850, guid: f27f81461515a794996e8b4a2751e074,
-        type: 2}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: fc697bf3a064eb441a8929ad4ba0f987,
-        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f27f81461515a794996e8b4a2751e074, type: 2}
   m_IsPrefabParent: 0
