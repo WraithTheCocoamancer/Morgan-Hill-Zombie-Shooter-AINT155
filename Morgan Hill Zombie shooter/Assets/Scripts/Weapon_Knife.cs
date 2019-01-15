@@ -1,30 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class Weapon_Knife : MonoBehaviour
+public class Weapon_Knife : WeaponBase
 {
     //public GameObject SlashPrefab;
     //public Transform[] SlashSpawn;
 
     public Collider2D col;
-
-    public float fireTime = 0.5f;
-    private bool isFiring = false;
-
-    public RuntimeAnimatorController anim;
+    
 
     void Start()
     {
         col.enabled = false;
-        transform.parent.parent.GetComponent<Animator>().runtimeAnimatorController = anim;
+        transform.parent.parent.GetComponent<Animator>().runtimeAnimatorController = Gunanim;
     }
 
-    private void SetFiring()
+    protected override void SetFiring()
     {
         isFiring = false;
         col.enabled = false;
     }
-    private void Fire()
+    protected override void Fire()
     {
         isFiring = true;
 
@@ -40,14 +36,5 @@ public class Weapon_Knife : MonoBehaviour
         //}
         Invoke("SetFiring", fireTime);
     }
-    private void Update()
-    {
-        if (Input.GetMouseButton(0))
-        {
-            if (!isFiring)
-            {
-                Fire();
-            }
-        }
-    }
+   
 }

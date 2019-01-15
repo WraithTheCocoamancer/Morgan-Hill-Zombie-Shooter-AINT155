@@ -81,6 +81,10 @@ public class WeaponManager : MonoBehaviour
                      * see link: https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html
                      */
                     transform.GetChild(i).gameObject.SetActive(true);
+                    WeaponBase weapon = transform.GetChild(i).GetComponent<WeaponBase>();
+                    transform.parent.GetComponent<Animator>().runtimeAnimatorController = weapon.Gunanim;
+
+
                 }
                 else // DEACTIVATE ALL WEAPONS NOT AT INDEX
                 {

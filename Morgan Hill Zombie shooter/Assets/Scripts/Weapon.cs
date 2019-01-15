@@ -1,25 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class Weapon : MonoBehaviour 
+public class Weapon : WeaponBase
 {
-    public RuntimeAnimatorController Gunanim;
-    
+   
     public GameObject bulletPrefab;
     public Transform[] BulletSpawn;
-    public float fireTime = 0.5f;
-    private bool isFiring = false;
 
     private void SpriteChange()
     {
         
     }
-    private void SetFiring()
+
+    protected override void SetFiring()
     {
         isFiring = false;
-        transform.parent.parent.GetComponent<Animator>().runtimeAnimatorController = Gunanim;
     }
-    private void Fire()
+
+    protected override void Fire()
     {
         isFiring = true;
         for (int i = 0; i < BulletSpawn.Length; i++)
@@ -32,14 +30,5 @@ public class Weapon : MonoBehaviour
         }
         Invoke("SetFiring", fireTime);
     }
-    private void Update()
-    {
-        if (Input.GetMouseButton(0))
-        {
-            if (!isFiring)
-            {
-                Fire();
-            }
-        }
-    }
+
 }
