@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 68d603bb4dbfdde46b9e0584c002e7cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ArenaPath 1_0
+    21300002: ArenaPath 1_1
+    21300004: ArenaPath 1_2
+    21300006: ArenaPath 1_3
+    21300008: ArenaPath 1_4
+    21300010: ArenaPath 1_5
+    21300012: ArenaPath 1_6
+    21300014: ArenaPath 1_7
+    21300016: ArenaPath 1_8
+    21300018: ArenaPath 1_9
+    21300020: ArenaPath 1_10
+    21300022: ArenaPath 1_11
+    21300024: ArenaPath 1_12
+    21300026: ArenaPath 1_13
+    21300028: ArenaPath 1_14
+    21300030: ArenaPath 1_15
+    21300032: ArenaPath 1_16
+    21300034: ArenaPath 1_17
+    21300036: ArenaPath 1_18
+    21300038: ArenaPath 1_19
+    21300040: ArenaPath 1_20
+    21300042: ArenaPath 1_21
+    21300044: ArenaPath 1_22
+    21300046: ArenaPath 1_23
+    21300048: ArenaPath 1_24
+    21300050: ArenaPath 1_25
+    21300052: ArenaPath 1_26
+    21300054: ArenaPath 1_27
+    21300056: ArenaPath 1_28
+    21300058: ArenaPath 1_29
+    21300060: ArenaPath 1_30
+    21300062: ArenaPath 1_31
+    21300064: ArenaPath 1_32
+    21300066: ArenaPath 1_33
+    21300068: ArenaPath 1_34
+    21300070: ArenaPath 1_35
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 97.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArenaPath 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3413.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e90cb8d7b2cfd04eb49d0da73c3a5f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3413.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6154ffe0705a489c8c065d1543184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3413.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd88218141987546bafa88b94570ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_3
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 3413.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec270bebd636143839e897c97939b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_4
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 3413.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41047518924f32488c957b19e2eb114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_5
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 3413.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8ae2dae1a45b408421577735ac90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2731.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9dbef7781f97489cf28b2f3c71781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2731.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147dbda81e9a184ab9f2ffb31fdca08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_8
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2731.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16131f8b00f99bb40bf5ab8710c16df9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_9
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2731.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c0d5a2ef555004480179ca20d56524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_10
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2731.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0280e4d56a043741b5b5d0ff87239d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_11
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 2731.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441fd830f505d634ea9aafec121c1500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2049.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5f03a4848d3647b51e2a2cd8e0cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2049.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28007cdd8cb2f4d9ac63b4a8fe34e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_14
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2049.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0451c23483b5408510bc6949a20e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_15
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2049.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0370e4f396c7b41a53f67c13f50881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_16
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2049.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c771f55af158a4591117af54294d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_17
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 2049.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b10f05182b6a54580a2a9a9545480c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1367.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7d57a6cf47344f9a9d558199a203a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_19
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1367.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cca4846e626de46b155e8ff0abc1cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_20
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1367.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672bd4326ed31394ba81365d34a6b1ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_21
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1367.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b70ca3cb7c86944bc69c4243ec7a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_22
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1367.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfad00d4ca57ea4e967dcd0ed2809b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_23
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1367.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9d20851d3dc14f8f07a913a5d1212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378cb6454b0a77d4aa9683ff17c2d220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 685.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ee10e2ce12934283e26d8fee8b2ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_26
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 685.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5a5f88f71c65469d1049e60cc7602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_27
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 685.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36ad95b16e0f7438f72ad625233c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_28
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 685.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9507d4ac7eed99448643698b0fc4d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_29
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 685.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa690aa0d93eae4694fe0193e9463a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b240c0ab6a67b54990d684b61e4bef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_31
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a352045854bd774fb9cf8b5619c0f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_32
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e9bf5bf715f143bb3ec843c45d576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_33
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 3.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ccf024ec86f6f4c9168c850c124810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_34
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 3.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5934f26b59f49499a1306f438fdfd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArenaPath 1_35
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 3.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df58bd196cc84a4e860911fb9cdd25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 59f918c7243c53049b77c61e33d39a43
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

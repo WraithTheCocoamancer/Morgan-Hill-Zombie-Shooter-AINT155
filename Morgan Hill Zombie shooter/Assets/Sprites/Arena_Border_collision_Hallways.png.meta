@@ -1,16 +1,24 @@
 fileFormatVersion: 2
-guid: 88861b33e84a15b4e99038177de24a51
+guid: 9636790560d32344fad3cb7414a149bf
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Boarder Corners_0
-    21300002: Boarder Corners_1
-    21300004: Boarder Corners_2
-    21300006: Boarder Corners_3
-    21300008: Boarder Corners_4
-    21300010: Boarder Corners_5
-    21300012: Boarder Corners_6
-    21300014: Boarder Corners_7
-    21300016: Boarder Corners_8
+    21300000: Arena_Border_collision_Hallways_0
+    21300002: Arena_Border_collision_Hallways_1
+    21300004: Arena_Border_collision_Hallways_2
+    21300006: Arena_Border_collision_Hallways_3
+    21300008: Arena_Border_collision_Hallways_4
+    21300010: Arena_Border_collision_Hallways_5
+    21300012: Arena_Border_collision_Hallways_6
+    21300014: Arena_Border_collision_Hallways_7
+    21300016: Arena_Border_collision_Hallways_8
+    21300018: Arena_Border_collision_Hallways_9
+    21300020: Arena_Border_collision_Hallways_10
+    21300022: Arena_Border_collision_Hallways_11
+    21300024: Arena_Border_collision_Hallways_12
+    21300026: Arena_Border_collision_Hallways_13
+    21300028: Arena_Border_collision_Hallways_14
+    21300030: Arena_Border_collision_Hallways_15
+    21300032: Arena_Border_collision_Hallways_16
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -124,7 +132,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Boarder Corners_0
+      name: Arena_Border_collision_Hallways_0
       rect:
         serializedVersion: 2
         x: 0
@@ -138,13 +146,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b62db13011304b4dbb400f5939a366a
+      spriteID: 3257a4c6101842e4a9f59c23963b29c7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_1
+      name: Arena_Border_collision_Hallways_1
       rect:
         serializedVersion: 2
         x: 682
@@ -158,13 +166,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218cb83c2e0ae294db1adf8c40f39269
+      spriteID: 380a2ca849c9ec7448d11e49e4b8e167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_2
+      name: Arena_Border_collision_Hallways_2
       rect:
         serializedVersion: 2
         x: 1364
@@ -178,13 +186,73 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 062a356bbe6d2114ab935bdab371ed78
+      spriteID: 39335802040b7a34287358c7db2809f3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_3
+      name: Arena_Border_collision_Hallways_3
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1365.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e86896d9033ad49aaa97d35f1cb8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_4
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1365.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e30ed530f4cb4bb11628f45b922ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_5
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1365.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c459dfca8e9b447be11aaa0132f628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_6
       rect:
         serializedVersion: 2
         x: 0
@@ -198,33 +266,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fce7fddd997c0554ebedf020cda39366
+      spriteID: bc54ec4e20b2edf448ac4499de6861a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_4
-      rect:
-        serializedVersion: 2
-        x: 682
-        y: 683.3333
-        width: 682.6667
-        height: 682.6667
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: feba44a3d748b7945b8dd38bd62bc9a8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Boarder Corners_5
+      name: Arena_Border_collision_Hallways_7
       rect:
         serializedVersion: 2
         x: 1364
@@ -238,13 +286,73 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fe1cc09ac627f14fb215aaff82a23e4
+      spriteID: e7981d3fc18b22d40b945a10efceee8e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_6
+      name: Arena_Border_collision_Hallways_8
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 683.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d340f53d4c1d164296ca199ac6fdec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_9
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 683.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b5c439e99ba745a3229abe2c2c189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_10
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 683.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a051acd108384aa270ffe80b6aa42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_11
       rect:
         serializedVersion: 2
         x: 0
@@ -258,13 +366,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6989d7470fffab940892764b4055176e
+      spriteID: aa70b666a92dd5e4d92c2e2e0188848a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_7
+      name: Arena_Border_collision_Hallways_12
       rect:
         serializedVersion: 2
         x: 682
@@ -278,13 +386,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b51255bb01291543b19c1baaacaa157
+      spriteID: bad8afe2fec0cb84899b68d8a3f97f36
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_8
+      name: Arena_Border_collision_Hallways_13
       rect:
         serializedVersion: 2
         x: 1364
@@ -298,7 +406,67 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cab1217aef26c34e9cc9823fef05cf4
+      spriteID: 77980bf9d597e574990477ffd20f23a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_14
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0078e84ba9de7d43b6a4127e6333ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_15
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab73abd601bcd478c79356e3cd0cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena_Border_collision_Hallways_16
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fbf8367ff04d44bb90fad15a34e50d
       vertices: []
       indices: 
       edges: []
@@ -306,7 +474,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 964fddd93172ef049a59c39843338e0c
+    spriteID: c53a9958e4ec01f409bc45cb8e983efd
     vertices: []
     indices: 
     edges: []

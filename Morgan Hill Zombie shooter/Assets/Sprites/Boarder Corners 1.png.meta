@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 88861b33e84a15b4e99038177de24a51
+guid: b8a8930d9c5053c42aa227447fda4250
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Boarder Corners_0
-    21300002: Boarder Corners_1
-    21300004: Boarder Corners_2
-    21300006: Boarder Corners_3
-    21300008: Boarder Corners_4
-    21300010: Boarder Corners_5
-    21300012: Boarder Corners_6
-    21300014: Boarder Corners_7
-    21300016: Boarder Corners_8
+    21300000: Boarder Corners 1_0
+    21300002: Boarder Corners 1_1
+    21300004: Boarder Corners 1_2
+    21300006: Boarder Corners 1_3
+    21300008: Boarder Corners 1_4
+    21300010: Boarder Corners 1_5
+    21300012: Boarder Corners 1_6
+    21300014: Boarder Corners 1_7
+    21300016: Boarder Corners 1_8
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 97.5
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -124,7 +124,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Boarder Corners_0
+      name: Boarder Corners 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -138,13 +138,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b62db13011304b4dbb400f5939a366a
+      spriteID: 35f1ae4074e936249acde124b56d2d60
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_1
+      name: Boarder Corners 1_1
       rect:
         serializedVersion: 2
         x: 682
@@ -158,13 +158,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218cb83c2e0ae294db1adf8c40f39269
+      spriteID: 4ae2cb519e6eb434c9fedf66ea61edf2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_2
+      name: Boarder Corners 1_2
       rect:
         serializedVersion: 2
         x: 1364
@@ -178,13 +178,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 062a356bbe6d2114ab935bdab371ed78
+      spriteID: 999446fd272b0c34a8a177de8ba0a772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_3
+      name: Boarder Corners 1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -198,13 +198,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fce7fddd997c0554ebedf020cda39366
+      spriteID: 3f21831aa8d8df947bc07fd0d5421f35
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_4
+      name: Boarder Corners 1_4
       rect:
         serializedVersion: 2
         x: 682
@@ -218,13 +218,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: feba44a3d748b7945b8dd38bd62bc9a8
+      spriteID: d6a120da4107eec4f8d1179ed6f583b1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_5
+      name: Boarder Corners 1_5
       rect:
         serializedVersion: 2
         x: 1364
@@ -238,13 +238,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fe1cc09ac627f14fb215aaff82a23e4
+      spriteID: 64cbf96092aa6fe4cbc34f59b126f412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_6
+      name: Boarder Corners 1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -258,13 +258,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6989d7470fffab940892764b4055176e
+      spriteID: 08d2e269bffa2234b918e04453af7923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_7
+      name: Boarder Corners 1_7
       rect:
         serializedVersion: 2
         x: 682
@@ -278,13 +278,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b51255bb01291543b19c1baaacaa157
+      spriteID: 99ef3cba5a5b7d24bb4ca0c1c900eaab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boarder Corners_8
+      name: Boarder Corners 1_8
       rect:
         serializedVersion: 2
         x: 1364
@@ -298,7 +298,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cab1217aef26c34e9cc9823fef05cf4
+      spriteID: bb592671eea9be141992c3b3aa42bc60
       vertices: []
       indices: 
       edges: []
@@ -306,7 +306,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 964fddd93172ef049a59c39843338e0c
+    spriteID: cd319578d72ef884ba2a33a06af5d811
     vertices: []
     indices: 
     edges: []
