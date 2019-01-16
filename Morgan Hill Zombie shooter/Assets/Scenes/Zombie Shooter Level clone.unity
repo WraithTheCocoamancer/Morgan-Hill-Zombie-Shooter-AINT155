@@ -2289,7 +2289,11 @@ Transform:
   m_Children:
   - {fileID: 1303848136}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 31
+=======
+  m_RootOrder: 13
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &697920231
 GameObject:
@@ -2595,7 +2599,11 @@ Transform:
   m_Children:
   - {fileID: 358650371}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 30
+=======
+  m_RootOrder: 12
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &784381537
 Prefab:
@@ -2634,7 +2642,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4968086291649570, guid: 56114d2225c432347854754b52314d81, type: 2}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
       value: 11
+=======
+      value: 15
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 56114d2225c432347854754b52314d81, type: 2}
@@ -3003,7 +3015,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 29
+=======
+  m_RootOrder: 11
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1108945457
 Prefab:
@@ -3090,7 +3106,11 @@ Transform:
   m_Children:
   - {fileID: 1630595356}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 32
+=======
+  m_RootOrder: 14
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1288700166
 Prefab:
@@ -3177,7 +3197,11 @@ Transform:
   m_Children:
   - {fileID: 1652039711}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 33
+=======
+  m_RootOrder: 17
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1303848135
 GameObject:
@@ -4177,7 +4201,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4888927441992700, guid: f27f81461515a794996e8b4a2751e074, type: 2}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
       value: 12
+=======
+      value: 16
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f27f81461515a794996e8b4a2751e074, type: 2}
@@ -5963,7 +5991,11 @@ Transform:
   m_Children:
   - {fileID: 697920232}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 35
+=======
+  m_RootOrder: 18
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2140291827
 GameObject:
@@ -6068,7 +6100,11 @@ RectTransform:
   - {fileID: 1982440272}
   - {fileID: 27725248}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_RootOrder: 36
+=======
+  m_RootOrder: 19
+>>>>>>> 2b9a0d049731676a00c4fa73e6f1fcdbcd1e34cd:Morgan Hill Zombie shooter/Assets/Scenes/Zombie Shooter Level clone.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
