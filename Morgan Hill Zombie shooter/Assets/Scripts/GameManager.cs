@@ -7,14 +7,14 @@ public class GameManager : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("Zombie Shooter Level 1");
+        SceneManager.LoadScene("Zombie Shooter Level clone");
     }
     public void EndGame()
     {
-        SceneManager.LoadScene("Game Over");
+        SceneManager.LoadScene("Game Over_");
     }
     public void BackToMainMenu()
     {
-        SceneManager.LoadScene("Main Menu");
+        SceneManager.LoadScene("Main Menu_");
     }
 }
